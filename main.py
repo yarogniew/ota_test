@@ -1,1 +1,1 @@
-print("Hello OTA dupa!")
+print("Hello OTA dwie dupy!")
