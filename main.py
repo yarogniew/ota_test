@@ -1,1 +1,1 @@
-print('Now is ver. 4')
+print('Hello from esp8266. Now is ver. 5')
