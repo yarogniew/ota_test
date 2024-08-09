@@ -1,1 +1,1 @@
-print('Now is ver. 1')
+print('Now is ver. 2')
