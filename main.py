@@ -1,1 +1,1 @@
-print("Hello OTA dwie dupy!")
+print('Now is ver. 1')
